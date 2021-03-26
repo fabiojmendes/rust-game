@@ -1,0 +1,6 @@
+/target
+
+# Environment Variables
+/.env
+/env.ps1
+SDL2.dll
